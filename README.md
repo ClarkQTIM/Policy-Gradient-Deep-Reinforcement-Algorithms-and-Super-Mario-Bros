@@ -1,4 +1,4 @@
-# Policy Gradient Deep Reinforcement Algorithms and Super Mario Bros
+# Policy-Gradient-Deep-Reinforcement-Algorithms-and-Super-Mario-Bros
 
 This project is an exploration of the mathematical and programming foundations of several policy gradient deep reinforcement learning algorithms applied to OpenAI Gym's Super Mario Bros. Policy Gradient algorithms in Reinforcement Learning are those which seek to find the best policy, $\pi$, to maximize the rewards over trajectories.
 
